@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>project</id>
+    <title>project</title>
+    <version>1.0.0</version>
+    <authors>/authors>
+    <owners>Dileep</owners>
+    <description></description>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src=".\..\src\*.*" target="tools" />
+  </files>
+</package>
