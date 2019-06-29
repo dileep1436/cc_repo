@@ -4,12 +4,15 @@
     <id>project</id>
     <title>project</title>
     <version>1.0.0</version>
-    <authors>/authors>
+    <authors>Dileep</authors>
     <owners>Dileep</owners>
-    <description></description>
+    <description>Dileep</description>
     <tags></tags>
+	 <dependencies>
+      <dependency id="project"  />
+    </dependencies>
   </metadata>
   <files>
-    <file src=".\..\src\*.*" target="tools" />
+    <file src="..\..\src\*.*" target="tools" />
   </files>
 </package>
